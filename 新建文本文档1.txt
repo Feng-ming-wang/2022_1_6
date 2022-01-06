@@ -154,7 +154,7 @@
 明日计划：
 了解GitLab的cicd自动发布构建流程。
 
-修改
+修改 pull request
 
 
 
